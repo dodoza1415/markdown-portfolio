@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Surachet Pichaiwattanaporn (Italic)*
+
+_Surachet Pichaiwattanaporn (Italic)_
+
+
+**Surachet Pichaiwattanaporn (bold)**
+
+__Surachet Pichaiwattanaporn (bold)__
+
+_**Surachet Pichaiwattanaporn (Italic + bold)**_
